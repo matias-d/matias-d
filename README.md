@@ -1,11 +1,7 @@
 ### Hola mundo 👋,  Soy Matias
 #### Full-Stack Web Developer orientado al Front-end de Buenos Aires Argentina 🇦🇷
 
-💼 Actualmente Trabajando como Developer UX en YoInvierto 
-
-🔌 Siempre estoy intentado mejorar en mi desempeño, buscando desafios grandes y retadores <br>
-⚽ Apasionado de la programación y en los deportes, preferiblemente el Futbol.  <br>
-🌱 Actualmente estoy aprendiendo TypeScript, GraphQL y profundizando en React y sus buenas practicas. <br>
+💼 Actualmente Trabajando como Frontend Developer en YoInvierto 
 
 
 <h3 align="left"> ⭐ Lenguajes y herramientas </h3>
