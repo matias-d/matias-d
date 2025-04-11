@@ -1,21 +1,35 @@
-### Hola mundo 👋,  Soy Matias
-#### Full-Stack Web Developer orientado al Front-end de Buenos Aires Argentina 🇦🇷
+## !Hey 👋¡ soy [Matias!](https://gonzalopozzo.com)
+Desarollador Frontend developer con [React](https://reactjs.org) ✨ apasionado por el desarrollo web y diseño UI/UX 🎨 . 
 
-💼 Actualmente Trabajando como Frontend Developer en YoInvierto 
+<a href="mailto:matiasc.02.2003@gmail.com">
+<img align="left" alt="Matias Cabrera Gmail" width="22px" src="https://icongr.am/fontawesome/envelope.svg?size=128&color=f5e342" />
+</a>
+<a href="https://www.linkedin.com/in/matias-e-cabrera">
+<img align="left" alt="Matias Cabrera Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=f5e342" />
+</a>
 
 
-<h3 align="left"> ⭐ Lenguajes y herramientas </h3>
-<p>
-  FrontEnd: React | Angular | Javascript | Typescript | Tailwind | Redux | Zustand | Astro | NextJS | Git <br>
-  BackEnd: Node | Express | Java | Spring Boot <br>
-  Database: PostgreSQL | Sequelize | Supabase | Firebase <br>
-  Otros : Figma | Trello
-</p>
 
- ---------------------
+<br/>
 
-📲 Contact Information <br>
- - Linkedin: https://www.linkedin.com/in/matias-e-cabrera/ <br>
- - Email: matiasc.02.2003@gmail.com
+## Ahora estoy
+
+- 🌱 Disponible para cualquier servicio.
+- 🔭 Trabajando como freelancer en [YoInvierto](https://yoinvierto.com.ar/).
+- 📚 Aprendiendo Salesforce y mejorando mi seniority.
+
+<br />
+  
+## Herramientas y lenguajes
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+
+---
+
+
 
 
