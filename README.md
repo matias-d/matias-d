@@ -16,7 +16,7 @@ Desarollador Frontend developer con [React](https://reactjs.org) ✨ apasionado 
 
 - 🌱 Disponible para cualquier servicio.
 - 🔭 Trabajando como freelancer en [YoInvierto](https://yoinvierto.com.ar/).
-- 📚 Aprendiendo Salesforce y mejorando mi seniority.
+- 📚 Aprendiendo blockchain y mejorando mi seniority.
 
 <br />
   
